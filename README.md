@@ -233,13 +233,17 @@ The scatter plot displays the data points for both the stroke patients and who d
 
 - Gender does not appear to be a significant predictor of stroke risk in this dataset.
 
-- The marital status shows a high stroke percentage with individals who are married than the unmarried patients.
+- As females have slightly high occurence of stroke with 2.4% whereas the males are only 1.8%.
 
-- Exploring the work type, it strongly shows that the 'private' job holders are at a high risk of stroke than the other work categories.
- 
-- Residence factor does not have any significant impact for the incodence of stroke.
+- The marital status shows a high stroke percentage in married individuals i.e. 3.8% whereas the unmarried patients have only 0.5% occurence in stroke.
 
-- There is a some correlation between BMI and stroke risk, particularly in obese individuals.
+
+- Exploring the work type, it strongly shows that the 'private' job holders are at a high risk of stroke with 2.6% than the other work categories less than 1%. 
+
+
+- Residence factor does not have any significant impact for the occurence of stroke as the number is only about 2%.
+
+- There is a poor correlation between BMI and stroke risk, particularly in obese individuals with all values of 'r' close to 0.
 
 
 ### 6.2 Observations Analysis Summary

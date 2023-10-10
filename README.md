@@ -46,7 +46,7 @@ We would like to address the above concerns by answering the following questions
 
 - Classification on the basis of gender, and age group with different work types.
 
-- Develop predictive models to assess an individual's risk of experiencing a stroke based on their demographic and health-related attributes.
+- Assess an individual's risk of experiencing a stroke based on their demographic and health-related attributes.
 
 - Examine how stroke rates is effected based on marital status, bmi, residnece and smoking habit. 
 

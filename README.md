@@ -1,16 +1,9 @@
-# Group_2_Stroke_Data_Analysis
-  Stroke Data Analysis
+# Exploratory_Data_Analysis_On_Stroke_Dataset
 
-# Exploratory Data Analysis of Stroke Risk Factors
+Here is the  stroke  analysis & report
 
-Here is the group project on which we are wokring for last two weeks for stroke  analysis & report
 
-Contributors of this project are:
-
-- Maira Syed
-- Aruna Venkatachalam
-- Jalees Moeen
-
+![Alt text](Images/Stroke_Intro.png)
 
 
 ## 1 Introduction 
@@ -28,7 +21,11 @@ Contributors of this project are:
 - We will begin by providing an overview of the dataset, detailing its structure and contents. Subsequently, we will delve into the exploratory analysis, where we will examine various health condition such as hypertension, heart disease, smoking status with respect to  age, gender, work type , and more. 
 
 
-## 2 Data Sources
+## 2 Data Source
+
+
+![Alt text](<Images/Data Source.png>)
+
 
 The dataset used in this analysis comprises  from Kaggle https://www.kaggle.com/competitions/playground-series-s3e2/overview  and offers a wealth of information about individuals and their health attributes. 
 
@@ -51,6 +48,7 @@ We would like to address the above concerns by answering the following questions
 - Examine how stroke rates is effected based on marital status, bmi, residnece and smoking habit. 
 
 - Can we identify other key factors or combinations of factors that correlate strongly with stroke incidence.
+
 
 
 ## 4  Data Preprocessing
@@ -224,6 +222,7 @@ The scatter plot displays the data points for both the stroke patients and who d
 
 ## 6 Conclusions
 
+
 ### 6.1 Responses for Research Questions
 
 
@@ -256,3 +255,11 @@ The scatter plot displays the data points for both the stroke patients and who d
 
 - Further research is needed to explore the reasons for the urban-rural disparity in stroke incidence.
 
+
+## Authors
+
+## [Maira Syed GitHub](https://github.com/mairasyed)
+
+## [Aruna  Venkatachalam GitHub](https://github.com/arunavenkatachalam)
+
+## [Jalees Moeen GitHub](https://github.com/JaleesMoeen)

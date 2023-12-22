@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis_On_Stroke_Dataset
+# StrokeScope_Insights_into_Stroke_Occurrence
 
 Here is the  stroke  analysis & report
 
